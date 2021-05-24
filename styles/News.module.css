@@ -1,0 +1,27 @@
+.news {
+    position: relative;
+    padding-top: 40px;
+}
+
+.news h3 {
+    font-size: 25px;
+}
+
+.news p {
+    margin: 10px 0;
+}
+
+.image {
+    margin-bottom: 20px;
+}
+
+.controls {
+    position: absolute;
+    right: 30px;
+    top: 0;
+}
+
+.delete {
+    margin-left: 20px;
+    color: red;
+}
